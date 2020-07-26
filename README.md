@@ -1,4 +1,4 @@
-# covid19-chatbot (SigmaHacks 2.0 Submission)
+# COVID-19 Chatbot (SigmaHacks 2.0 Submission)
 
 Nowadays, with many people getting their news as headlines off of social media, misinformation is a serious problem. With the COVID-19 pandemic, 
 it’s especially important to be well-informed of health guidelines and regulations to keep yourself and other people safe.
