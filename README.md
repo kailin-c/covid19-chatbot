@@ -14,7 +14,8 @@ We hope you enjoy our submission!
 ____________________________________________________________
 
 
-Here are the copyright and permissions notices for the rivescript-js library we used, as required by the creators (we have put it in quotations & here is their link for more details: https://github.com/aichaos/rivescript-js):
+Here are the copyright and permissions notices for the rivescript-js library we used, as required by the creators (we have put it in quotations):
+
 "The MIT License (MIT)
 
 Copyright (c) 2020 Noah Petherbridge
@@ -36,3 +37,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE."
+
+Also, here is their link for more details: https://github.com/aichaos/rivescript-js
