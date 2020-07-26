@@ -7,7 +7,7 @@ As such, we decided to develop a friendly, easy-to-use chatbot which can answer 
 
 Here is the link to the chatbot we created using IBM Cloud's Watson Assistant: https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-east&integrationID=b498a8c3-63e5-424b-95f3-f65e048e6dd5&serviceInstanceID=67a7fd67-295d-4686-8ff2-41b6142f1d71
 
-We also created a similar chatbot using JavaScript (including aichaos's rivescript-js library, whose copywrite and permission notices are shown below in accordance with their policy) and html, 
+We also created a similar chatbot using JavaScript (including p5.js & aichaos's rivescript-js library, whose copywrite and permission notices are shown below in accordance with their policy) and html, 
 in the hopes of adding a news feature using a News API. You can view the source and test out this chatbot from our glitch page: https://glitch.com/~covid19-chatbot
 
 We hope you enjoy our submission!
